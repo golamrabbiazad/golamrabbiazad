@@ -1,4 +1,4 @@
-![hard-work-paysoff](./Hard-work-pays-off.jpg)
+![hard-work-paysoff](https://github.com/golamrabbiazad/golamrabbiazad/blob/master/Hard-work-pays-off.jpg)
 
 ### Hi there | Salam 👋
 
