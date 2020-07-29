@@ -1,16 +1,17 @@
-### Hi there 👋
+![Github](./github.gif)
 
-<!--
-**golamrabbiazad/golamrabbiazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there | Salam 👋
+
+I'm Rabbi | Azad! I'm a Web Developer and passionate about coding. Born in Joypurhat and raised in Dhaka. I'm currently studying Computer Science and Engineering under National University. That's why I'm here | interest about coding!
+
+I moved to Joypurhat in April 2020. And a medicine store called **"Manha Pharmacy"** which is run by me & my brother currently. Beside,
+
+- 🔭 I’m currently working on a **MERN** Stack project.
+- 👯 I’m looking to collaborate on **null** | **open**
+- 🤔 I’m looking for help with **null** | **remote-job**
+- 📫 reach me at: [**Email**](golamrabbiazad@gmail.com) | [**Twitter**](@golamrabbiazad)
+
+
+
