@@ -1,6 +1,6 @@
 # Hi there | Salam 👋
 
-`I'm Rabbi | Azad! I love to write code mostly for the web, beside, trying to solve problems.`
+`I'm Rabbi | Azad! I love to write code mostly for the web, besides, trying to solve problems.`
 
 `Born in Joypurhat and raised in Dhaka. Currently, I'm studying Computer Science and Engineering under @nu.ac.bd`
 
