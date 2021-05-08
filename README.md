@@ -7,7 +7,7 @@
 ```json
 {
   "title": ["MERN Developer", "Software Engineer"],
-  "fav_tech": ["TS", "React" "Svelte", "Node", "Golang", "Rust", "GraphQL", "Docker"],
+  "fav_tech": ["TS", "React" "Svelte", "GraphQL", "Node", "Golang", "MongoDB, "Postgres", "Docker"],
 }
 ``` 
 
