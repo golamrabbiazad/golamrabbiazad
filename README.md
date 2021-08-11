@@ -6,7 +6,7 @@
 
 ```json
 {
-  "title": ["MERN Developer", "Software Engineer"],
+  "title": ["MERN Stack Developer", "GRAND Stack Developer", "Software Engineer"],
   "fav_tech": ["TS", "React" "Svelte", "GraphQL", "Node", "Golang", "MongoDB", "Postgres", "Docker"],
 }
 ``` 
