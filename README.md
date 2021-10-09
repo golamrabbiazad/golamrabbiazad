@@ -6,9 +6,15 @@
 
 ```json
 {
-  "title": ["MERN Stack Developer", "GRAND Stack Developer", "Software Engineer"],
-  "fav_tech": ["TS", "React" "Svelte", "GraphQL", "Node", "Golang", "MongoDB", "Postgres", "Docker"],
+  "title": ["MERN Stack Developer", "GRAND Stack Developer", "Full-stack Engineer", "Software Engineer"],
+  
+  "fav_tech": [
+  
+  "TS", "React", "Next.js", "Gatsby.js", "Svelte", 
+  "GraphQL", "Node", "Golang", "MongoDB", "Postgres", "Supabase", "Prisma", "Docker", "AWS"
+  
+  ],
 }
-``` 
+```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=golamrabbiazad&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=golamrabbiazad&label=Profile%20views&color=0e75b6&style=flat)
