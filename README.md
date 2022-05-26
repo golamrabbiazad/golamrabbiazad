@@ -10,7 +10,7 @@
   
   "fav_tech": [
   
-  "TS", "React", "Next.js", "Gatsby.js", "Svelte", 
+  "TS", "React", "Next.js", "SvelteKit", "Gatsby.js",
   "GraphQL", "Node", "Golang", "MongoDB", "Postgres", "Supabase", "Prisma", "Docker", "AWS"
   
   ],
