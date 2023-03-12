@@ -1,8 +1,7 @@
-# Hi there | Salam 👋
+# Hello 👋
 
 `I'm Rabbi | Azad! I love to write code mostly for the web, besides, trying to solve problems.`
 
-`Born in Joypurhat and raised in Dhaka. Currently, I'm studying Computer Science and Engineering under @nu.ac.bd`
 
 ```json
 {
@@ -10,8 +9,8 @@
   
   "fav_tech": [
   
-  "TS", "Next.js", "Remix", "SvelteKit", "Tailwind CSS",
-  "Node.js", "Golang", "Prisma", "GraphQL", "MongoDB", "Postgres", "Supabase", "PlanetScale", "Docker", "AWS"
+  "TS", "Next.js", "Remix", "SolidStart", "qwik", "Tailwind CSS", "TRPC",
+  "Node.js", "Golang", "Prisma", "GraphQL", "MongoDB", "Postgres", "PlanetScale", "supabase", "Docker", "AWS"
   
   ],
 }
