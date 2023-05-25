@@ -5,12 +5,12 @@
 
 ```json
 {
-  "title": ["MERN Stack Developer", "GRAND Stack Developer", "Full-stack Engineer", "Software Engineer"],
+  "title": ["Full-stack Engineer", "Software Engineer"],
   
   "fav_tech": [
   
-  "TS", "Next.js", "Remix", "SolidStart", "qwik", "Tailwind CSS", "TRPC",
-  "Node.js", "Golang", "Prisma", "GraphQL", "MongoDB", "Postgres", "PlanetScale", "supabase", "Docker", "AWS"
+  "TS", "Next.js", "zustand", "Astro.build", "Solid.js", "SvelteKit", "Tailwind CSS", "shadcn/ui", "Node.js", "Prisma",
+  "☕️ Java", "Golang", "GraphQL", "MongoDB", "🐘️ Postgres", "Vitest", "Playwright", "Docker", "PlanetScale", "vercel", "AWS"
   
   ],
 }
