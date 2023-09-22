@@ -1,18 +1,35 @@
 # Hello 👋
 
-`I'm Rabbi | Azad! I love to write code mostly for the web, besides, trying to solve problems.`
+`I'm Rabbi | Azad! Creating issues that I'm trying to fix after more issues auto-created. Where is the ending? 🤪 `
 
 
 ```json
 {
-  "title": ["Full-stack Engineer", "Software Engineer"],
-  
+  "title": "You decide what title suits me. 👨‍💻 ",
   "fav_tech": [
-  
-  "TS", "Next.js", "zustand", "Astro.build", "Solid.js", "SvelteKit", "Tailwind CSS", "shadcn/ui", "Node.js", "Prisma",
-  "☕️ Java", "Golang", "GraphQL", "MongoDB", "🐘️ Postgres", "Vitest", "Playwright", "Docker", "PlanetScale", "vercel", "AWS"
-  
-  ],
+    {
+      "font-end": [
+        "ts/tsx",
+        "next.js 🔼 ",
+        "component.astro 🚀",
+        "solid.js",
+        "tailwind.config.ts",
+        "shadcn/ui"
+      ],
+      "back-end": [
+        "node.js",
+        "bun.js",
+        "prisma",
+        "Java ☕️",
+        "go 🐹",
+        "vitest",
+        "playwright"
+      ],
+      "db": ["mongodb", "postgres 🐘", "planetscale"],
+      "tools": ["vscode", "intellij idea", "datagrip", "Docker"],
+      "cloud": ["cloudflare", "vercel", "AWS"]
+    }
+  ]
 }
 ```
 
