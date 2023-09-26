@@ -1,6 +1,6 @@
 # Hello 👋
 
-`I'm Rabbi | Azad! Creating issues that I'm trying to fix after more issues auto-created. Where is the ending? 🤪 `
+`I'm Rabbi | Azad! I'm having a bit of trouble tackling problems because more keep popping up unexpectedly. Where is the ending? 🤪 `
 
 
 ```json
