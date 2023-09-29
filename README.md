@@ -11,6 +11,7 @@
       "font-end": [
         "ts/tsx",
         "next.js 🔼 ",
+        "z.literal("zod")",
         "component.astro 🚀",
         "solid.js",
         "tailwind.config.ts",
