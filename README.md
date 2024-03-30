@@ -21,12 +21,13 @@
         "node.js",
         "bun.js",
         "prisma",
-        "Java ☕️",
+        "Rust 🦂",
         "go 🐹",
+        "Java ☕️",
         "vitest",
         "playwright"
       ],
-      "db": ["mongodb", "postgres 🐘", "planetscale"],
+      "db": ["cloudflare d1", "postgres 🐘", "planetscale"],
       "tools": ["vscode", "intellij idea", "datagrip", "Docker"],
       "cloud": ["cloudflare", "vercel", "AWS"]
     }
