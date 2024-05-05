@@ -1,11 +1,11 @@
 # Hello 👋
 
-`I'm Rabbi | Azad! I'm having a bit of trouble tackling problems because more keep popping up unexpectedly. Where is the ending? 🤪 `
+`I'm Rabbi | Azad! I'm having trouble tackling problems because more keep popping up unexpectedly. Where is the ending? 🤪 `
 
 
 ```json
 {
-  "title": "You decide what title suits me. 👨‍💻 ",
+  "title": "SWE 👨‍💻",
   "fav_tech": [
     {
       "font-end": [
@@ -27,7 +27,7 @@
         "vitest",
         "playwright"
       ],
-      "db": ["cloudflare d1", "postgres 🐘", "planetscale"],
+      "db": ["cloudflare d1", "mysql", "postgres 🐘"],
       "tools": ["vscode", "intellij idea", "datagrip", "Docker"],
       "cloud": ["cloudflare", "vercel", "AWS"]
     }
