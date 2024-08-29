@@ -8,7 +8,7 @@
   "title": "SWE 👨‍💻",
   "fav_tech": [
     {
-      "font-end": [
+      "frontend": [
         "ts/tsx",
         "next.js 🔼 ",
         "z.literal('zod')",
@@ -17,7 +17,7 @@
         "tailwind.config.ts",
         "shadcn/ui"
       ],
-      "back-end": [
+      "backend": [
         "node.js",
         "bun.js",
         "prisma",
