@@ -1,38 +1,15 @@
 # Hello 👋
 
-`I'm Rabbi | Azad! I'm having trouble tackling problems because more keep popping up unexpectedly. Where is the ending? 🤪 `
+Welcome to my GitHub account! Here you will find all the projects, ideas, and experiments that I have been working on. Feel free to explore and I hope you find something interesting!
+
+🧑🏻‍💻 Working as a `Software Engineer`
+
+🇧🇩 Dhaka, Bangladesh
 
 
-```json
-{
-  "title": "SWE 👨‍💻",
-  "fav_tech": [
-    {
-      "frontend": [
-        "ts/tsx",
-        "next.js 🔼 ",
-        "z.literal('zod')",
-        "component.astro 🚀",
-        "solid.js",
-        "tailwind.config.ts",
-        "shadcn/ui"
-      ],
-      "backend": [
-        "node.js",
-        "bun.js",
-        "prisma",
-        "Rust 🦂",
-        "go 🐹",
-        "Java ☕️",
-        "vitest",
-        "playwright"
-      ],
-      "db": ["cloudflare d1", "mysql", "postgres 🐘"],
-      "tools": ["vscode", "intellij idea", "datagrip", "Docker"],
-      "cloud": ["cloudflare", "vercel", "AWS"]
-    }
-  ]
-}
+⏮️ Previous Work:
+```
+- Software Engineer @ m4yours
 ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=golamrabbiazad&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=golamrabbiazad&label=Profile%20views&color=0e75b6&style=flat)
