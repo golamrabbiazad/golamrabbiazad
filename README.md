@@ -4,7 +4,7 @@ Welcome to my GitHub account! Here you will find all the projects, ideas, and ex
 
 🧑🏻‍💻 Working as a `Software Engineer`
 
-🇧🇩 Dhaka, Bangladesh
+🇧🇩 Joypurhat, Bangladesh
 
 
 ⏮️ Previous Work:
