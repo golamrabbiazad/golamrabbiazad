@@ -2,7 +2,7 @@
 
 Welcome to my GitHub account! Here you will find all the projects, ideas, and experiments that I have been working on. Feel free to explore and I hope you find something interesting!
 
-🧑🏻‍💻 Working as a `Software Engineer`
+🧑🏻‍💻 Working as a `Senior Software Engineer`
 
 🇧🇩 Joypurhat, Bangladesh
 
